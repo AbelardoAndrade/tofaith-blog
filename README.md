@@ -1,6 +1,4 @@
-Aqui está um exemplo de um `README.md` para o seu blog pessoal "To Faith Blog", criado em React e voltado para cristãos e assuntos relacionados ao Cristianismo Protestante:
 
-```markdown
 # To Faith Blog ✝️
 
 **To Faith Blog** é um blog pessoal dedicado à fé cristã e à promoção de conteúdos relacionados ao Cristianismo Protestante. Criado para cristãos de todas as idades, este blog busca edificar, informar e compartilhar reflexões, estudos e insights sobre a vida com Cristo.
@@ -77,4 +75,3 @@ Este projeto está sob a licença [MIT](LICENSE).
 A todos que têm apoiado a criação deste blog e àqueles que têm compartilhado suas histórias e fé para a edificação da comunidade cristã. Que este espaço continue sendo usado para a glória de Deus e para edificação do corpo de Cristo.
 ```
 
-Sinta-se à vontade para ajustar o conteúdo conforme necessário para atender melhor às características do seu blog.
